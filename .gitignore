@@ -1,8 +1,0 @@
-model/model.pkl
-model/vectorizer.pkl
-data/dataset_clean.csv
-data/True.csv
-data/Fake.csv
-data/plots/
-__pycache__/
-*.pyc
